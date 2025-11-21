@@ -1,0 +1,7 @@
+{
+  "name": "FITDEX: Social & Battle",
+  "description": "A gamified fitness social network with AI training plans, leaderboards, and battle minigames.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
